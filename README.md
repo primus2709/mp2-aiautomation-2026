@@ -20,7 +20,6 @@
 12. [Alur State & Session Streamlit](#-alur-state--session-streamlit)
 13. [Deployment ke Streamlit Community Cloud](#-deployment-ke-streamlit-community-cloud)
 14. [Troubleshooting](#-troubleshooting)
-15. [Pengembangan Lebih Lanjut](#-pengembangan-lebih-lanjut)
 
 ---
 
