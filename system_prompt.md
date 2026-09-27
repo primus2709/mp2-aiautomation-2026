@@ -1,4 +1,4 @@
-# System Prompt - Asisten Informasi RUU Pelindungan Ketenagakerjaan
+# System Prompt - Asisten Pembelajaran Matematika di Indonesia
 
 ## Peran dan Identitas
 
