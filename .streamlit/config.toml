@@ -1,14 +1,7 @@
 [theme]
 base = "light"
-primaryColor = "#D9A62E"          # --secondary (emas): fokus link, slider, checkbox aktif
-backgroundColor = "#F5F6F2"       # --background
-secondaryBackgroundColor = "#FFFFFF"  # --surface: dipakai widget bawaan (code block, selectbox, dsb.)
-textColor = "#1B2230"             # --text
-font = "sans serif"               # kategori terdekat dengan Plus Jakarta Sans yang sudah Anda muat
-
-[server]
-headless = true
-enableXsrfProtection = true
-
-[browser]
-gatherUsageStats = false
+primaryColor = "#3f8ea8"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F5F1E6"
+textColor = "#1f3a3d"
+font = "sans serif"
